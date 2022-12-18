@@ -1,7 +1,7 @@
 # Dumb Project #1
 ## How would teleporation affect the world?
 
-As part of my ongoing proejct of trying to use my pent up anxiety semi-productivaly, I have decided to start a series of "Dumb Projects" where I attempt to answer the series of whacky questions that plague my mind. 
+As part of my ongoing proejct of trying to use my pent up anxiety semi-productivaly, I have decided to start a series of "Dumb Projects" where I attempt to answer the series of whacky questions that plague my mind.
 
 First idea :bulb: : *The effects of the advent of teleporation on society*
 
@@ -15,7 +15,10 @@ But then, once the high of imagining taking a lunch break in Singapour starts to
  - [ ] Health
  - [ ] Energy
  - [ ] Political
- 
- 
+
+
  # TODO
  Write a better readme than this
+
+# References
+ - [Canadian Rail Census](https://open.canada.ca/data/en/dataset/057180f9-9c2e-47e2-ba2e-d3f5ab9df5a4)
