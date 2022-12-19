@@ -1,0 +1,58 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Railway industry summary statistics on freight and passenger transportation","23100057","404-0016","https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2310005701",1;2,"CURRENT - a cube available to the public and that is current","Annual","1986-01-01","2020-01-01","3",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography",,""
+"2","Companies",,""
+"3","Statistics",,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Canada","[11124]","1","","",,
+"2","Canadian National","","2","1","",,
+"2","Canadian Pacific","","3","1","",,
+"2","VIA Rail","","4","1","",,
+"2","Regional railways","","5","1","",,
+"2","Total companies","","1","","",,
+"3","Revenue freight, tonnes","","1","","",,
+"3","Revenue freight, tonne-kilometres","","2","","",,
+"3","Revenue freight, average haul on each railway","","3","","",,
+"3","Revenue and non-revenue freight, tonnes","","4","","",,
+"3","Revenue and non-revenue freight, tonne-kilometres","","5","","",,
+"3","Revenue and non-revenue freight, average haul on each railway","","6","","",,
+"3","Revenue passengers, passengers","","7","","",,
+"3","Revenue passengers, passenger-kilometres","","8","","",,
+"3","Revenue passengers, average passenger journey per ticket","","9","","",,
+"3","Transportation services, averages, cars per freight train","","10","","",,
+"3","Transportation services, averages, cars per passenger train","","11","","",,
+"3","Transportation services, averages, freight carload","","12","","",,
+"3","Transportation services, averages, empty freight car-kilometres","","13","","",,
+"3","Transportation services, averages, freight train speed","","14","","",,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"2734","Annual Survey on Rail Transportation"
+
+"Subject Code","Subject Name"
+"23","Transportation"
+
+"Note ID",Note
+1,"Financial, operational and origin and destination data may change on a year to year basis as a result of fluctuations in currency exchange rates, reclassifications of accounts, etcetera. Data are also influenced by mergers, acquisitions and companies which may enter or exit the industry."
+2,"It is important to note that the universe of regional and short-haul carriers changes regularly."
+
+"Correction ID","Correction Date","Correction Note"
